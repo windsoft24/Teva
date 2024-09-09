@@ -1,0 +1,151 @@
+HTTrack3.49-1+htsswf+htsjava launched on Thu, 14 Mar 2024 07:12:54 at https://tevacostarica.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tevacostarica.com/ -O1 "C:\My Web Sites\TEVA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:14:04	Error: 	"Not Found" (404) at link https://tevacostarica.com/comments/feed/ (from https://tevacostarica.com/)
+07:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tevacostarica.com/xmlrpc.php?rsd (from https://tevacostarica.com/)
+07:14:30	Error: 	"Not Found" (404) at link https://unpkg.com/swiper@11.0.7/css/swiper.min.css (from https://tevacostarica.com/)
+07:15:12	Warning: 	Moved Permanently for tevacostarica.com/robots.txt
+07:15:12	Warning: 	Redirected link is identical because of 'URL Hack' option: tevacostarica.com/robots.txt and https://tevacostarica.com/robots.txt
+07:15:12	Warning: 	Warning moved treated for tevacostarica.com/robots.txt (real one is https://tevacostarica.com/robots.txt)
+07:15:12	Warning: 	Moved Permanently for tevacostarica.com/en/about-teva/
+07:15:12	Warning: 	Redirected link is identical because of 'URL Hack' option: tevacostarica.com/en/about-teva/ and https://tevacostarica.com/en/about-teva/
+07:15:12	Warning: 	File has moved from tevacostarica.com/en/about-teva/ to https://tevacostarica.com/en/about-teva/
+07:15:12	Warning: 	Moved Permanently for tevacostarica.com/habitaciones/
+07:15:12	Warning: 	Redirected link is identical because of 'URL Hack' option: tevacostarica.com/habitaciones/ and https://tevacostarica.com/habitaciones/
+07:15:12	Warning: 	File has moved from tevacostarica.com/habitaciones/ to https://tevacostarica.com/habitaciones/
+07:15:12	Warning: 	Moved Permanently for tevacostarica.com/en/amenities/
+07:15:12	Warning: 	Redirected link is identical because of 'URL Hack' option: tevacostarica.com/en/amenities/ and https://tevacostarica.com/en/amenities/
+07:15:12	Warning: 	File has moved from tevacostarica.com/en/amenities/ to https://tevacostarica.com/en/amenities/
+07:15:22	Error: 	"Not Found" (404) at link https://unpkg.com/swiper@11.0.7/js/swiper.min.js (from https://tevacostarica.com/)
+07:15:22	Error: 	"Bad Request" (400) at link https://tevacostarica.com/wp-admin/admin-ajax.php (from https://tevacostarica.com/)
+07:15:23	Error: 	"Not Found" (404) at link https://tevacostarica.com/es/comments/feed/ (from https://tevacostarica.com/es/home/)
+07:15:38	Warning: 	Moved Permanently for tevacostarica.com/sobre-teva/
+07:15:38	Warning: 	Redirected link is identical because of 'URL Hack' option: tevacostarica.com/sobre-teva/ and https://tevacostarica.com/sobre-teva/
+07:15:38	Warning: 	File has moved from tevacostarica.com/sobre-teva/ to https://tevacostarica.com/sobre-teva/
+07:15:38	Warning: 	Moved Permanently for tevacostarica.com/restaurante/
+07:15:38	Warning: 	Redirected link is identical because of 'URL Hack' option: tevacostarica.com/restaurante/ and https://tevacostarica.com/restaurante/
+07:15:38	Warning: 	File has moved from tevacostarica.com/restaurante/ to https://tevacostarica.com/restaurante/
+07:15:38	Warning: 	Moved Permanently for tevacostarica.com/amenidades/
+07:15:38	Warning: 	Redirected link is identical because of 'URL Hack' option: tevacostarica.com/amenidades/ and https://tevacostarica.com/amenidades/
+07:15:38	Warning: 	File has moved from tevacostarica.com/amenidades/ to https://tevacostarica.com/amenidades/
+07:15:38	Warning: 	Moved Permanently for tevacostarica.com/eventos/
+07:15:38	Warning: 	Redirected link is identical because of 'URL Hack' option: tevacostarica.com/eventos/ and https://tevacostarica.com/eventos/
+07:15:38	Warning: 	File has moved from tevacostarica.com/eventos/ to https://tevacostarica.com/eventos/
+07:15:41	Error: 	"Not Found" (404) at link https://tevacostarica.com/wp-content/themes/salient/img/icons/slider-arrows-small.png (from https://tevacostarica.com/wp-content/themes/salient/css/style.css?ver=10.5.3)
+07:15:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tevacostarica.com/xmlrpc.php?rsd (from https://tevacostarica.com/)
+07:15:41	Error: 	"Not Found" (404) at link https://tevacostarica.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+07:15:41	Error: 	"Not Found" (404) at link https://tevacostarica.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+07:15:41	Error: 	"Not Found" (404) at link https://tevacostarica.com/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+07:15:41	Error: 	"Not Found" (404) at link https://tevacostarica.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+07:15:41	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6487
+07:15:41	Warning: 	File has moved from https://tevacostarica.com/?p=6487 to https://tevacostarica.com/about-teva/
+07:15:41	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6503
+07:15:41	Warning: 	File has moved from https://tevacostarica.com/?p=6503 to https://tevacostarica.com/rooms/
+07:15:41	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6506
+07:15:41	Warning: 	File has moved from https://tevacostarica.com/?p=6506 to https://tevacostarica.com/dining/
+07:15:41	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6501
+07:15:41	Warning: 	File has moved from https://tevacostarica.com/?p=6501 to https://tevacostarica.com/gallery/
+07:15:41	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6490
+07:15:41	Warning: 	File has moved from https://tevacostarica.com/?p=6490 to https://tevacostarica.com/amenities/
+07:15:41	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6494
+07:15:41	Warning: 	File has moved from https://tevacostarica.com/?p=6494 to https://tevacostarica.com/events/
+07:15:41	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6508
+07:15:41	Warning: 	File has moved from https://tevacostarica.com/?p=6508 to https://tevacostarica.com/book-now/
+07:15:41	Warning: 	Moved Permanently for https://tevacostarica.com/?p=7000
+07:15:41	Warning: 	File has moved from https://tevacostarica.com/?p=7000 to https://tevacostarica.com/maps/
+07:15:41	Warning: 	Moved Permanently for https://tevacostarica.com/chrome-extension://
+07:15:41	Warning: 	Redirected link is identical because of 'URL Hack' option: https://tevacostarica.com/chrome-extension:// and https://tevacostarica.com/chrome-extension:/
+07:15:41	Warning: 	File has moved from https://tevacostarica.com/chrome-extension:// to https://tevacostarica.com/chrome-extension:/
+07:15:41	Error: 	"Not Found" (404) at link https://tevacostarica.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+07:15:41	Error: 	"Not Found" (404) at link https://tevacostarica.com/^([^:/? (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+07:16:01	Error: 	"Not Found" (404) at link https://tevacostarica.com/restserver.php (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+07:16:02	Error: 	"Not Found" (404) at link https://tevacostarica.com/dialog/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+07:16:02	Error: 	"Not Found" (404) at link https://tevacostarica.com/LiveChatEvent/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+07:16:03	Error: 	"Not Found" (404) at link https://tevacostarica.com/rsrc.php/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+07:16:04	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6230
+07:16:04	Warning: 	File has moved from https://tevacostarica.com/?p=6230 to https://tevacostarica.com/es/sobre-teva/
+07:16:05	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6272
+07:16:05	Warning: 	File has moved from https://tevacostarica.com/?p=6272 to https://tevacostarica.com/es/habitaciones/
+07:16:07	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6297
+07:16:07	Warning: 	File has moved from https://tevacostarica.com/?p=6297 to https://tevacostarica.com/es/restaurante/
+07:16:09	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6299
+07:16:09	Warning: 	File has moved from https://tevacostarica.com/?p=6299 to https://tevacostarica.com/es/galeria/
+07:16:10	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6301
+07:16:10	Warning: 	File has moved from https://tevacostarica.com/?p=6301 to https://tevacostarica.com/es/amenidades/
+07:16:12	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6303
+07:16:12	Warning: 	File has moved from https://tevacostarica.com/?p=6303 to https://tevacostarica.com/es/eventos/
+07:16:14	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6377
+07:16:14	Warning: 	File has moved from https://tevacostarica.com/?p=6377 to https://tevacostarica.com/es/reservar/
+07:16:15	Warning: 	Moved Permanently for https://tevacostarica.com/?p=7032
+07:16:15	Warning: 	File has moved from https://tevacostarica.com/?p=7032 to https://tevacostarica.com/es/mapas/
+07:16:16	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://tevacostarica.com/xmlrpc.php?rsd (from https://tevacostarica.com/)
+07:16:17	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6243
+07:16:17	Warning: 	File has moved from https://tevacostarica.com/?p=6243 to https://tevacostarica.com/2013/01/07/get-the-most-out-of-your-training/
+07:16:17	Error: 	"Not Found" (404) at link themenectar.com/demo/salient-corporate-2/wp-content/uploads/2017/09/nathan-anderson-291067.jpg (from https://tevacostarica.com/2013/01/07/get-the-most-out-of-your-training/)
+07:18:15	Error: 	"Not Found" (404) at link themenectar.com/demo/salient-corporate-2/wp-content/uploads/2017/09/nathan-anderson-291067-1-150x150.jpg (from https://tevacostarica.com/category/fashion/)
+07:18:53	Warning: 	Moved Permanently for https://tevacostarica.com/?p=139
+07:18:53	Warning: 	File has moved from https://tevacostarica.com/?p=139 to https://tevacostarica.com/2014/07/15/video-post/
+07:18:53	Warning: 	Moved Permanently for https://tevacostarica.com/?p=220
+07:18:53	Warning: 	File has moved from https://tevacostarica.com/?p=220 to https://tevacostarica.com/2014/07/15/doing-a-cross-country-road-trip/
+07:18:53	Warning: 	Moved Permanently for https://tevacostarica.com/?p=138
+07:18:53	Warning: 	File has moved from https://tevacostarica.com/?p=138 to https://tevacostarica.com/2013/04/21/nulla-magna/
+07:18:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=219
+07:18:58	Warning: 	File has moved from https://tevacostarica.com/?p=219 to https://tevacostarica.com/2013/04/21/we-encountered-a-food-paradise/
+07:18:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=141
+07:18:58	Warning: 	File has moved from https://tevacostarica.com/?p=141 to https://tevacostarica.com/2013/03/23/the-field/
+07:19:56	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6248
+07:19:56	Warning: 	File has moved from https://tevacostarica.com/?p=6248 to https://tevacostarica.com/2013/02/22/we-hired-a-new-employee/
+07:19:56	Warning: 	Moved Permanently for https://tevacostarica.com/?p=222
+07:19:56	Warning: 	File has moved from https://tevacostarica.com/?p=222 to https://tevacostarica.com/2013/03/23/deep-down-in-the-water/
+07:19:56	Warning: 	Moved Permanently for https://tevacostarica.com/?p=3145
+07:19:56	Warning: 	File has moved from https://tevacostarica.com/?p=3145 to https://tevacostarica.com/2013/01/08/donec-porta/
+07:19:56	Warning: 	Moved Permanently for https://tevacostarica.com/?p=224
+07:19:56	Warning: 	File has moved from https://tevacostarica.com/?p=224 to https://tevacostarica.com/2013/01/07/the-relaxing-ocean-waves/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=2677
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=2677 to https://tevacostarica.com/2013/02/14/be-my-guest/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=1251
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=1251 to https://tevacostarica.com/2013/01/07/facilisis-nulla/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/author/wp-teva-admin/page/1/
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/author/wp-teva-admin/page/1/ to https://tevacostarica.com/author/wp-teva-admin/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=2328
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=2328 to https://tevacostarica.com/2013/03/21/magna-fringilla-quis-condimentum/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6244
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=6244 to https://tevacostarica.com/2013/03/21/10-tips-for-what-to-do-downtown/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=5618
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=5618 to https://tevacostarica.com/2013/02/22/porttitor-porttitor-mollis-vitae-placerat/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6246
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=6246 to https://tevacostarica.com/2013/02/14/be-my-guest-concert/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=2329
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=2329 to https://tevacostarica.com/2013/01/23/mauris-pharetra-interdum-lorem-2/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=2327
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=2327 to https://tevacostarica.com/2013/02/15/ambrose-redmoon/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6245
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=6245 to https://tevacostarica.com/2013/01/23/every-day-you-learn-something-new/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=2671
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=2671 to https://tevacostarica.com/2013/01/15/ownage-in-the-mountains/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=1239
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=1239 to https://tevacostarica.com/2013/01/11/velit-feugiat-porttito/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=221
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=221 to https://tevacostarica.com/2013/01/10/a-new-office-location/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=140
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=140 to https://tevacostarica.com/2013/01/10/ink-in-water/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=559
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=559 to https://tevacostarica.com/2013/01/08/aenean-laoreet-tortor/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6242
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=6242 to https://tevacostarica.com/2013/01/08/top-5-places-you-need-to-see/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=6247
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=6247 to https://tevacostarica.com/2013/01/08/do-you-feel-like-a-young-god/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/2013/01/page/1/
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/2013/01/page/1/ to https://tevacostarica.com/2013/01/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=152
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=152 to https://tevacostarica.com/2013/01/07/suspendisse-vulputate-diam/
+07:19:58	Warning: 	Moved Permanently for https://tevacostarica.com/?p=142
+07:19:58	Warning: 	File has moved from https://tevacostarica.com/?p=142 to https://tevacostarica.com/2013/01/04/premium-wordpress-themes-bursting-with-quality/
+
+HTTrack Website Copier/3.49-1 mirror complete in 7 minutes 4 seconds : 697 links scanned, 620 files written (137755850 bytes overall) [120897677 bytes received at 285136 bytes/sec], 25948137 bytes transferred using HTTP compression in 363 files, ratio 24%, 10.1 requests per connection
+(19 errors, 121 warnings, 0 messages)

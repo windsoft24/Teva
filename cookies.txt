@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tevacostarica.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+.themenectar.com	TRUE	/	FALSE	1999999999	__cf_bm	7XxQIXw2XRsPYOYZYa9PsuFHnncZGIVoJ.gBK2mD6bo-1710418790-1.0.1.1-qO6dl1D8ZX.W.Vx9bgnXcaH1Rh8729OmQN.CcHVg5ecaeZ7vFsjvr78Zsat8IoO2xIl3WH5.X1p_DAJglmuPSQ
+themenectar.com	TRUE	/	FALSE	1999999999	SameSite	None
+
